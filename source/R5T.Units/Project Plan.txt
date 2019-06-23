@@ -2,3 +2,8 @@ R5T.Units - A library of physical unit types.
 
 Goals
 
+Links:
+
+* https://github.com/angularsen/UnitsNet
+* https://www.codeproject.com/Articles/404573/Units-of-Measure-Library-for-NET
+* https://stackoverflow.com/questions/54043/does-anyone-know-a-library-for-working-with-quantity-unit-of-measure-pairs
